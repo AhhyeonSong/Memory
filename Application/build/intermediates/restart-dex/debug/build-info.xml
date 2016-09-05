@@ -4,30 +4,54 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="1769180595257"
-    token="6898136703087783379" >
+    timestamp="7558914459896"
+    token="6898136703087783379"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="4546" />
+        duration="556" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="1004" />
     <task
         name="instant-run-transform"
-        duration="4361" />
+        duration="12" />
     <task
         name="verifier"
-        duration="447" />
+        duration="21" />
 
     <artifact
-        location="/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/outputs/apk/Application-debug.apk"
-        type="MAIN" />
+        location="/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="1769180595257" >
+    <build timestamp="6186763824554" >
         <artifact
             location="/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="7502701424420"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="7558914459896"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

@@ -68,12 +68,16 @@
         "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
         "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/friend_picture.xml",
+        "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/src/main/res/layout/friend_picture.xml"
     },
     {
         "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
@@ -120,6 +124,10 @@
         "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_layout.xml"
     },
     {
+        "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/family_picture.xml",
+        "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/src/main/res/layout/family_picture.xml"
+    },
+    {
         "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/src/main/res/layout/activity_main.xml"
     },
@@ -158,6 +166,10 @@
     {
         "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/teacher_picture.xml",
+        "source": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/src/main/res/layout/teacher_picture.xml"
     },
     {
         "merged": "/Users/appcreator27/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",

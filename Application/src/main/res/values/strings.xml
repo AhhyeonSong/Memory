@@ -18,7 +18,7 @@
     <string-array name="planets_array">
         <item>가족</item>
         <item>친구</item>
-        <item>선생님</item>
+        <item>주우재</item>
     </string-array>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
