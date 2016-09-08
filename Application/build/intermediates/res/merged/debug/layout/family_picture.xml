@@ -5,13 +5,13 @@
     android:id="@+id/family">
 
     <ImageView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/fa1"
         android:src="@drawable/family1"/>
 
     <ImageView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/fa2"
         android:src="@drawable/family2"/>

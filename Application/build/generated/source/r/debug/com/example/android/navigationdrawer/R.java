@@ -2114,8 +2114,9 @@ containing a value of this type.
         public static final int select_dialog_item_material=0x7f030029;
         public static final int select_dialog_multichoice_material=0x7f03002a;
         public static final int select_dialog_singlechoice_material=0x7f03002b;
-        public static final int support_simple_spinner_dropdown_item=0x7f03002c;
-        public static final int teacher_picture=0x7f03002d;
+        public static final int splash_layout=0x7f03002c;
+        public static final int support_simple_spinner_dropdown_item=0x7f03002d;
+        public static final int teacher_picture=0x7f03002e;
     }
     public static final class menu {
         public static final int navigation_drawer=0x7f0d0000;

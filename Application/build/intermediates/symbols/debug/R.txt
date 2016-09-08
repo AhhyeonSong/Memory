@@ -693,8 +693,9 @@ int layout sample_dashboard_item 0x7f030028
 int layout select_dialog_item_material 0x7f030029
 int layout select_dialog_multichoice_material 0x7f03002a
 int layout select_dialog_singlechoice_material 0x7f03002b
-int layout support_simple_spinner_dropdown_item 0x7f03002c
-int layout teacher_picture 0x7f03002d
+int layout splash_layout 0x7f03002c
+int layout support_simple_spinner_dropdown_item 0x7f03002d
+int layout teacher_picture 0x7f03002e
 int menu navigation_drawer 0x7f0d0000
 int string abc_action_bar_home_description 0x7f050000
 int string abc_action_bar_home_description_format 0x7f050001
