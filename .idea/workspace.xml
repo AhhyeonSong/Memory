@@ -2,14 +2,162 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <target>android-23</target>
+      </config>
     </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/Application/src/main/res/layout/sample_main.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+    </layouts>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d08ff4a-4717-4853-8efb-20d0792bc97a" name="Default" comment="" />
+    <list default="true" id="8d08ff4a-4717-4853-8efb-20d0792bc97a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/blame/res/debug/multi/color.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/blame/res/debug/multi/drawable.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/builds/debug/4627405168786/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/instant-run-support/debug/restart-changes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/reload-dex/debug/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/reload-dex/debug/classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/merged/debug/drawable/jupiter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/merged/debug/drawable/mars.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/merged/debug/drawable/mercury.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/merged/debug/drawable/neptune.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/merged/debug/drawable/saturn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/merged/debug/drawable/venus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$drawable$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/MainActivity$Sample$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/MainActivity$SampleAdapter$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/MainActivity$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/NavigationDrawerActivity$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/R$drawable$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/R$id$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/R$integer$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/R$layout$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/R$menu$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/R$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/R$string$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/R$style$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/R$styleable$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/splashActivity$1$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/splashActivity$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/src/main/res/drawable/jupiter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/src/main/res/drawable/mars.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/src/main/res/drawable/mercury.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/src/main/res/drawable/neptune.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/src/main/res/drawable/saturn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/src/main/res/drawable/venus.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/MainActivity$Sample.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/MainActivity$Sample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/MainActivity$SampleAdapter.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/MainActivity$SampleAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/MainActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/NavigationDrawerActivity$1.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/NavigationDrawerActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/NavigationDrawerActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/NavigationDrawerActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$id.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$integer.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$layout.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$menu.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$string.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$style.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$styleable.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/splashActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/classes/debug/com/example/android/navigationdrawer/splashActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/MainActivity$Sample.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/MainActivity$Sample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/MainActivity$SampleAdapter.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/MainActivity$SampleAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/MainActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/NavigationDrawerActivity$1.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/NavigationDrawerActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/NavigationDrawerActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/NavigationDrawerActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$id.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$integer.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$layout.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$menu.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$string.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$style.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$styleable.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/splashActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawer/splashActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/instant-run-support/debug/classes.zip" afterPath="$PROJECT_DIR$/Application/build/intermediates/instant-run-support/debug/classes.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/instant-run-support/debug/resources.zip" afterPath="$PROJECT_DIR$/Application/build/intermediates/instant-run-support/debug/resources.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/Application/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/MainActivity$Sample.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/MainActivity$Sample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/MainActivity$SampleAdapter.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/MainActivity$SampleAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/MainActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/NavigationDrawerActivity$1.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/NavigationDrawerActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/NavigationDrawerActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/NavigationDrawerActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$id.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$integer.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$layout.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$menu.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$string.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$style.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$styleable.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/splashActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawer/splashActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/MainActivity$Sample.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/MainActivity$Sample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/MainActivity$SampleAdapter.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/MainActivity$SampleAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/MainActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/NavigationDrawerActivity$1.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/NavigationDrawerActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/NavigationDrawerActivity$PlanetFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/NavigationDrawerActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/NavigationDrawerActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$id.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$integer.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$layout.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$menu.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$string.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$style.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$styleable.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/splashActivity.class" afterPath="$PROJECT_DIR$/Application/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/android/navigationdrawer/splashActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/outputs/apk/Application-debug-unaligned.apk" afterPath="$PROJECT_DIR$/Application/build/outputs/apk/Application-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/outputs/apk/Application-debug.apk" afterPath="$PROJECT_DIR$/Application/build/outputs/apk/Application-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Application.iml" afterPath="$PROJECT_DIR$/Application/Application.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/Application/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/generated/source/r/debug/com/example/android/navigationdrawer/R.java" afterPath="$PROJECT_DIR$/Application/build/generated/source/r/debug/com/example/android/navigationdrawer/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/Application/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/Application/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/Application/build/intermediates/blame/res/debug/single/menu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/Application/build/intermediates/instant-run-support/debug/manifest.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/instant-run-support/debug/reload-changes.txt" afterPath="$PROJECT_DIR$/Application/build/intermediates/instant-run-support/debug/reload-changes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/Application/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/Application/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/Application/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java" afterPath="$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+    </list>
     <ignored path="Memory.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,34 +176,27 @@
     <favorites_list name="Memory" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.1764708">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ViewPagerActivity.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ViewPagerActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/ViewPagerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.86270875">
+              <caret line="45" column="14" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="14" />
               <folding>
-                <element signature="e#7109#7122#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#7276#7292#0" expanded="true" />
+                <element signature="e#7361#7377#0" expanded="true" />
+                <element signature="e#7530#7546#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="friend_picture.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/friend_picture.xml">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.2641509">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -64,19 +205,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavigationDrawerActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sample_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/sample_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="friend_picture.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/friend_picture.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavigationDrawerActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58984375">
-              <caret line="255" column="58" selection-start-line="255" selection-start-column="58" selection-end-line="255" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="254" column="68" selection-start-line="254" selection-start-column="68" selection-end-line="254" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4851#4871#0" expanded="true" />
-                <element signature="e#4940#4961#0" expanded="true" />
-                <element signature="e#7120#7146#0" expanded="true" />
-                <element signature="e#7452#7453#0" expanded="true" />
-                <element signature="e#7488#7489#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teacher_picture.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/teacher_picture.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.333333">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="32" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,6 +277,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -1665,16 +1853,17 @@
         <option value="$PROJECT_DIR$/Application/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/Application/src/main/res/values/template-styles.xml" />
         <option value="$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/content/AssetProvider.java" />
-        <option value="$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/ViewPagerActivity.java" />
-        <option value="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java" />
+        <option value="$PROJECT_DIR$/Application/src/main/res/layout/sample_main.xml" />
+        <option value="$PROJECT_DIR$/Application/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/ViewPagerActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="548" />
     <option name="y" value="22" />
-    <option name="width" value="1251" />
+    <option name="width" value="1920" />
     <option name="height" value="961" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -1702,7 +1891,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1739,24 +1931,6 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Memory" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
@@ -1770,10 +1944,6 @@
               <option name="myItemId" value="Application" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1808,32 +1978,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="navigationdrawer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Memory" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="navigationdrawer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1871,9 +2015,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1887,6 +2028,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
+    <property name="device.picker.selection" value="Nexus_5_API_21_x86" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1934,6 +2076,39 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1973,6 +2148,48 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -2009,7 +2226,35 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="Application" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="Application" type="AndroidRunConfigurationType" factoryName="Android Application" activateToolWindowBeforeRun="false">
       <module name="Application" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2070,37 +2315,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="548" y="22" width="1251" height="961" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="961" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979322" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20127796" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2111,18 +2356,112 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Application/src/main/res/values/base-strings.xml">
+    <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/ViewPagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7276#7292#0" expanded="true" />
+            <element signature="e#7361#7377#0" expanded="true" />
+            <element signature="e#7530#7546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/build/intermediates/manifests/full/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/sample_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1764708">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/friend_picture.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="254" column="68" selection-start-line="254" selection-start-column="68" selection-end-line="254" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/teacher_picture.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/family_picture.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/values/base-strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2182,7 +2521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2202,20 +2540,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/ViewPagerActivity.java">
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-          <folding>
-            <element signature="e#7109#7122#0" expanded="true" />
-          </folding>
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/family_picture.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -2230,8 +2569,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/friend_picture.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2641509">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -2239,17 +2578,82 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/teacher_picture.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58984375">
-          <caret line="255" column="58" selection-start-line="255" selection-start-column="58" selection-end-line="255" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="254" column="68" selection-start-line="254" selection-start-column="68" selection-end-line="254" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4851#4871#0" expanded="true" />
-            <element signature="e#4940#4961#0" expanded="true" />
-            <element signature="e#7120#7146#0" expanded="true" />
-            <element signature="e#7452#7453#0" expanded="true" />
-            <element signature="e#7488#7489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/res/layout/sample_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/tests/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3398058">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.333333">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="32" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/build/intermediates/manifests/full/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5048544">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/navigationdrawer/ViewPagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86270875">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7276#7292#0" expanded="true" />
+            <element signature="e#7361#7377#0" expanded="true" />
+            <element signature="e#7530#7546#0" expanded="true" />
           </folding>
         </state>
       </provider>

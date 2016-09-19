@@ -248,14 +248,17 @@ public class NavigationDrawerActivity extends Activity implements PlanetAdapter.
             int i = getArguments().getInt(ARG_PLANET_NUMBER);
             if(i==0) {
                 rootView = inflater.inflate(R.layout.family_picture, container, false);
+                iv=((ImageView)rootView.findViewById(R.id.fa1));
             }
             else if(i==1) {
                 rootView = inflater.inflate(R.layout.friend_picture, container, false);
+                iv=((ImageView)rootView.findViewById(R.id.friend1));
             }
             else if(i==2) {
                 rootView = inflater.inflate(R.layout.teacher_picture, container, false);
+                iv=((ImageView)rootView.findViewById(R.id.w1));
             }
-            iv=((ImageView)rootView.findViewById(R.id.image));
+
             iv.setOnClickListener(m_nda);
             return rootView;
         }

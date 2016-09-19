@@ -1962,7 +1962,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0b0043;
         public static final int action_mode_bar_stub=0x7f0b0042;
         public static final int action_mode_close_button=0x7f0b0027;
-        public static final int action_websearch=0x7f0b0072;
+        public static final int action_websearch=0x7f0b0074;
         public static final int activity_chooser_view_content=0x7f0b0028;
         public static final int add=0x7f0b0014;
         public static final int alertTitle=0x7f0b0034;
@@ -2011,6 +2011,7 @@ containing a value of this type.
         public static final int listMode=0x7f0b000a;
         public static final int list_item=0x7f0b002c;
         public static final int media_actions=0x7f0b0066;
+        public static final int menu_share=0x7f0b0073;
         public static final int middle=0x7f0b001d;
         public static final int multiply=0x7f0b0015;
         public static final int never=0x7f0b0021;
@@ -2058,8 +2059,9 @@ containing a value of this type.
         public static final int topPanel=0x7f0b0032;
         public static final int up=0x7f0b0009;
         public static final int useLogo=0x7f0b0013;
-        public static final int w1=0x7f0b0070;
-        public static final int w2=0x7f0b0071;
+        public static final int viewpager=0x7f0b0070;
+        public static final int w1=0x7f0b0071;
+        public static final int w2=0x7f0b0072;
         public static final int withText=0x7f0b0022;
         public static final int wrap_content=0x7f0b001a;
     }
@@ -2102,24 +2104,28 @@ containing a value of this type.
         public static final int family_picture=0x7f03001d;
         public static final int fragment_planet=0x7f03001e;
         public static final int friend_picture=0x7f03001f;
-        public static final int notification_media_action=0x7f030020;
-        public static final int notification_media_cancel_action=0x7f030021;
-        public static final int notification_template_big_media=0x7f030022;
-        public static final int notification_template_big_media_narrow=0x7f030023;
-        public static final int notification_template_lines=0x7f030024;
-        public static final int notification_template_media=0x7f030025;
-        public static final int notification_template_part_chronometer=0x7f030026;
-        public static final int notification_template_part_time=0x7f030027;
-        public static final int sample_dashboard_item=0x7f030028;
-        public static final int select_dialog_item_material=0x7f030029;
-        public static final int select_dialog_multichoice_material=0x7f03002a;
-        public static final int select_dialog_singlechoice_material=0x7f03002b;
-        public static final int splash_layout=0x7f03002c;
-        public static final int support_simple_spinner_dropdown_item=0x7f03002d;
-        public static final int teacher_picture=0x7f03002e;
+        public static final int item_image=0x7f030020;
+        public static final int item_text=0x7f030021;
+        public static final int notification_media_action=0x7f030022;
+        public static final int notification_media_cancel_action=0x7f030023;
+        public static final int notification_template_big_media=0x7f030024;
+        public static final int notification_template_big_media_narrow=0x7f030025;
+        public static final int notification_template_lines=0x7f030026;
+        public static final int notification_template_media=0x7f030027;
+        public static final int notification_template_part_chronometer=0x7f030028;
+        public static final int notification_template_part_time=0x7f030029;
+        public static final int sample_dashboard_item=0x7f03002a;
+        public static final int sample_main=0x7f03002b;
+        public static final int select_dialog_item_material=0x7f03002c;
+        public static final int select_dialog_multichoice_material=0x7f03002d;
+        public static final int select_dialog_singlechoice_material=0x7f03002e;
+        public static final int splash_layout=0x7f03002f;
+        public static final int support_simple_spinner_dropdown_item=0x7f030030;
+        public static final int teacher_picture=0x7f030031;
     }
     public static final class menu {
-        public static final int navigation_drawer=0x7f0d0000;
+        public static final int main_menu=0x7f0d0000;
+        public static final int navigation_drawer=0x7f0d0001;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f050000;
@@ -2159,8 +2165,12 @@ containing a value of this type.
         public static final int drawer_close=0x7f050023;
         public static final int drawer_open=0x7f050024;
         public static final int intro_message=0x7f050025;
-        public static final int navigationdraweractivity_description=0x7f050026;
-        public static final int navigationdraweractivity_title=0x7f050027;
+        public static final int menu_share=0x7f050026;
+        public static final int navigationdraweractivity_description=0x7f050027;
+        public static final int navigationdraweractivity_title=0x7f050028;
+        public static final int quote_1=0x7f050029;
+        public static final int quote_2=0x7f05002a;
+        public static final int quote_3=0x7f05002b;
         public static final int status_bar_notification_info_overflow=0x7f050013;
     }
     public static final class style {
@@ -2510,6 +2520,7 @@ containing a value of this type.
         public static final int Widget_SampleDashboard_Item_Description=0x7f070158;
         public static final int Widget_SampleDashboard_Item_Title=0x7f070159;
         public static final int Widget_SampleMessage=0x7f07000b;
+        public static final int Widget_SampleMessageTile=0x7f07015a;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
